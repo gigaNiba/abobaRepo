@@ -1,0 +1,16 @@
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+\\SERVER\share\2и1\Алгоритмизация\Работы студентов\Карандаков\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
